@@ -18,7 +18,7 @@ While there are many types of units, some of the most commonly used ones include
 
 **.timer**: Represents a timer, triggering activation of other units based on time.
 
-... and there are others, such as **.path**, **.slice, **.swap**, etc.
+... and there are others, such as **.path**, **.slice**, **.swap**, etc.
 
 #### multi-user.target
 
